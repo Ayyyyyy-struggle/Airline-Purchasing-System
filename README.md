@@ -1,4 +1,5 @@
 # Airline-Purchasing-System
+This is my C++ class final project.
 This airline system is design for client purchasing flight ticket.
 The departure city is Detroit DTW. 
 Destination includes 10 cities: Orlando, LasVegas, NewYork, LosAngels, SaltLakeCity, Dallas, Atlanta, Washington, Charlotte.
