@@ -1,0 +1,10 @@
+Detroit(DTW)	Orlando      MCO 	300	Delta	                 1162        	   
+Detroit(DTW)	LasVegas     LAS	   	412	United	                	1998        	  
+Detroit(DTW)	Chicago      ORD 	279	AmericanAirlines         	288         	
+Detroit(DTW)	NewYork      JFK	   	438	Delta	             	626             
+Detroit(DTW)	LosAngeles   LAX	  	474	United	             	2268        
+Detroit(DTW)	SaltLakeCity SLC	       	404	AmericanAirlines    	1652          
+Detroit(DTW)	Dallas       DFW	   	357	Delta	             	1178           
+Detroit(DTW)	Atlanta      ATL	   	249	Delta	             	596          
+Detroit(DTW)	Washington   DCA	       	345	AmericanAirlines    	403           
+Detroit(DTW)	Charlotte    CLT	   	361	United	             	502   															
